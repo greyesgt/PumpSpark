@@ -1,0 +1,10 @@
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\obj\x86\Debug\PumpSparkDemo.csprojResolveAssemblyReference.cache
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\obj\x86\Debug\PumpSparkDemo.Properties.Resources.resources
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\obj\x86\Debug\PumpSparkDemo.csproj.GenerateResource.Cache
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\bin\Debug\PumpSparkDemo.exe
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\bin\Debug\PumpSparkDemo.pdb
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\bin\Debug\PumpSparkManager.dll
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\bin\Debug\PumpSparkManager.pdb
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\obj\x86\Debug\PumpSparkDemo.exe
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\obj\x86\Debug\PumpSparkDemo.pdb
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkDemo\obj\x86\Debug\PumpSparkDemo.PumpSpark.resources

@@ -1,0 +1,9 @@
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkManager\bin\Debug\PumpSparkManager.dll
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkManager\bin\Debug\PumpSparkManager.pdb
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkManager\obj\Debug\PumpSparkManager.dll
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\Project1\PumpSparkManager\obj\Debug\PumpSparkManager.pdb
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\PumpSparkC#\PumpSparkManager\bin\Debug\PumpSparkManager.dll
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\PumpSparkC#\PumpSparkManager\bin\Debug\PumpSparkManager.pdb
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\PumpSparkC#\PumpSparkManager\obj\Debug\PumpSparkManager.dll
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\PumpSparkC#\PumpSparkManager\obj\Debug\PumpSparkManager.pdb
+C:\Users\t-greyes.REDMOND\Dropbox\Visual Studio\PumpSparkC#\PumpSparkManager\obj\Debug\PumpSparkManager.csprojResolveAssemblyReference.cache

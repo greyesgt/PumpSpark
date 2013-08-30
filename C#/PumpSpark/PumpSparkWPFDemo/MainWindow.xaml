@@ -1,0 +1,11 @@
+﻿<Window x:Class="PumpWPFController.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Pump Controller" Height="700" Width="700" Closing="Window_Closing">
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Top"/>
+        <StackPanel Orientation="Horizontal" Name="SliderStackPanel">
+            
+        </StackPanel>
+    </DockPanel>
+</Window>
